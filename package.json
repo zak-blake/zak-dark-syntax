@@ -2,7 +2,7 @@
   "name": "zak-dark-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A simple syntax theme designed for ruby to please zak",
   "keywords": [
     "syntax",
     "theme"
