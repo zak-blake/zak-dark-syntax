@@ -1,13 +1,15 @@
 {
-  "name": "zak-dark-syntax",
+  "name": "robot-ruby-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A simple syntax theme designed for ruby to please zak",
+  "description": "A lovely syntax theme designed for ruby to please robots",
   "keywords": [
+    "robot"
+    "ruby",
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/zak-dark-syntax",
+  "repository": "https://github.com/zak-blake/zak-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
