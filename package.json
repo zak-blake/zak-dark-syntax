@@ -1,7 +1,7 @@
 {
   "name": "robot-ruby-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A lovely syntax theme designed for ruby to please robots",
   "keywords": [
     "robot",
